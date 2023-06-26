@@ -1,8 +1,8 @@
 ## Olá eu sou o Wagner Ribeiro!
 <div align="center">
-  <a href="https://github.com/wagnerriro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnerriro&show_icons=true&theme=nord&rank_icon=github&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerriro&theme=nord&layout=donut&hide=javascript,html"/>
+  <a href="https://github.com/iWagnner">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iWagnner&show_icons=true&theme=nord&rank_icon=github&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iWagnner&theme=nord&layout=donut&hide=javascript,html"/>
 
   </div>
   
